@@ -1,16 +1,7 @@
-# charan_portfolio
+# Portfolio UI UsingFlutter
 
-A new Flutter project.
+## Images
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![s1](https://user-images.githubusercontent.com/71263421/128835017-e239c068-0c35-4da6-b9ae-14fc3c4b27fe.png)
+![s2](https://user-images.githubusercontent.com/71263421/128835026-1bfac53c-fe4d-42db-b589-2f5d90f91177.png)
+![s3](https://user-images.githubusercontent.com/71263421/128835030-c0ff9b16-d1bf-44e2-8619-f207724b1740.png)

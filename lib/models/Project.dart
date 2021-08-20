@@ -12,6 +12,12 @@ List<Project> demo_projects = [
         "In this project, I cloned one of the top most e-News offering apps, Inshorts. I used NewsAPI for all the news articles to display in the app.",
   ),
   Project(
+    url: "https://github.com/charanvinay/Weatherapp-using-Openweather",
+    title: "Weather app \nFlutter UI + Openweather",
+    description:
+        "In this project, I build a weather details app using flutter. I used Openweather API for weather details of all the cities in the world.",
+  ),
+  Project(
     url: "https://github.com/charanvinay/Facebook_UI_Flutter",
     title: "Responsive Facebook Homepage \nFlutter UI",
     description:
@@ -22,6 +28,12 @@ List<Project> demo_projects = [
     title: "Netflix Homepage \nFlutter UI",
     description:
         "In this project, I designed the home page of one of the top most OTT platforms, Netflix. I used some dummy data for the movies and their images. This is designed as a dark to get the same feel as Netflix.",
+  ),
+  Project(
+    url: "https://github.com/charanvinay/Signal-app-UI-Flutter",
+    title: "Signal Chat app \nFlutter UI",
+    description:
+        "In this project, I clone chat and message screens of one of the top most chatting platforms, Signal. I used some dummy data for the users and their messages. Added splash screen and app icon to the app.",
   ),
   Project(
     url: "https://github.com/charanvinay/E-Commerce-app-UI-Flutter",
